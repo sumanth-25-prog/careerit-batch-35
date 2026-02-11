@@ -1,9 +1,9 @@
 h1,h2,h3,h4,h5,h6 {
 color:blue;
-background-color: green;
+background-color:black
 width: 25%;
-text-align: left;
-padding: 15px;
-border: 2px solid red;
-margin: 15px;
+text-align: center;
+padding: 10px;
+border: 10px 
+margin: 10px;
 }
